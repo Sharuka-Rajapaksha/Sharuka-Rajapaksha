@@ -21,7 +21,12 @@
 <div align = "center">
 <a href="https://skillicons.dev">
 <a href="https://www.linkedin.com/in/sharuka-rajapaksha-243bba170/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <img src="https://skillicons.dev/icons?i=discord">
+<img src="https://skillicons.dev/icons?i=discord">
+  <img src="https://skillicons.dev/icons?i=youtubbe">
+  <img src="https://skillicons.dev/icons?i=medium">
+  <img src="https://skillicons.dev/icons?i=stackoverflow">
+  <img src="https://skillicons.dev/icons?i=instagram">
+  <img src="https://skillicons.dev/icons?i=facebook">
 </div>
 
 <!--
