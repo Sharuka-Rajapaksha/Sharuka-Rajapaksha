@@ -21,6 +21,7 @@
 <div align = "center">
 <a href="https://skillicons.dev">
 <a href="https://www.linkedin.com/in/sharuka-rajapaksha-243bba170/"><img src="https://skillicons.dev/icons?i=linkedin">
+<a href="https://www.linkedin.com/in/sharuka-rajapaksha-243bba170/"><img src="https://skillicons.dev/icons?i=medium">
 </a>
 </div>
 
