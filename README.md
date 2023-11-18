@@ -2,12 +2,11 @@
 <h2 align="center"> Hi 👋 I am Sharuka Rajapaksha</h2>
 <h3 align= "center"> Software Engineer</h3>
 
-- 🌍  I'm based in Finland
-- 🔭 I’m currently working on a React development project for a clone application!
-- 🌱 I’m currently learning React 
+- 🌍  Based in Finland
+- 🔭 I’m currently working on a React-based web application!
+- 🌱 I’m currently learning React and Angular 
 - 💬 Ask me about Web development
 - 📫 Feel free to contact me: rajapakshasharuka@gmail.com
-- ⚡ Fun fact: Finland's winter is not that cold, just -19 °C
 
 <h2 align="center"> Language-Frameworks-Tools </h2>
 
