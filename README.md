@@ -1,7 +1,8 @@
 
 <h2 align="center"> Hi 👋 I am Sharuka Rajapaksha</h2>
-<h3 align= "center"> Software Engineer based on Finland </h3>
+<h3 align= "center"> Software Engineer</h3>
 
+- 🌍  I'm based in Finland
 - 🔭 I’m currently working on a React development project for a clone application!
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web development
@@ -29,4 +30,9 @@
 </div>
 
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Bawanthathilan"><img src="https://github-readme-stats.vercel.app/api?username=Bawanthathilan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bawanthathilan's GitHub stats" /></a>
 
