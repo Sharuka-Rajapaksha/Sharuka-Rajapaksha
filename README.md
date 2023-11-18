@@ -12,7 +12,7 @@
 
 <div align = "center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,java,github,git,mysql,html,css,vscode,figma,AndroidStudio" >
+<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,java,github,git,mysql,html,css,vscode,figma,androidstudio" >
 </a>
 </div>
 
