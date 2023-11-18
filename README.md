@@ -22,7 +22,7 @@
 <a href="https://skillicons.dev">
 <a href="https://www.linkedin.com/in/sharuka-rajapaksha-243bba170/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 <a href="https://stackoverflow.com/users/12695098/sharuka-rajapaksha"><img src="https://skillicons.dev/icons?i=stackoverflow"></a>
-<a href="https://hashnode.com/@sharuka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="45" height="45" /></a>
+<a href="https://hashnode.com/@sharuka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="46" height="46" /></a>
   
 <img src="https://skillicons.dev/icons?i=discord">
 
