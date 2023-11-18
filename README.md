@@ -34,5 +34,5 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Bawanthathilan"><img src="https://github-readme-stats.vercel.app/api?username=Bawanthathilan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bawanthathilan's GitHub stats" /></a>
+<a href="https://github.com/Sharuka-Rajapaksha"><img src="https://github-readme-stats.vercel.app/api?username=Sharuka-Rajapaksha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sharuka Rajapaksha's GitHub stats" /></a>
 
