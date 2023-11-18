@@ -27,7 +27,7 @@
 <a href="https://www.youtube.com/channel/UCgQSvCgZ4kNeNqNrc8vZYZQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="46" height="46" /></a>
  <a href="https://www.instagram.com/sunnyovertheocean/"> <img src="https://skillicons.dev/icons?i=instagram"> <img src="https://skillicons.dev/icons?i=discord"></a>
 
- <img src ="https://fontawesome.com/icons/medium?f=brands&s=solid">
+ <img src ="https://fontawesome.com/icons/medium?i=medium">
 </div>
 
 
