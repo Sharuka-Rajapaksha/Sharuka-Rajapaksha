@@ -20,9 +20,8 @@
 
 <div align = "center">
 <a href="https://skillicons.dev">
-<a href="https://www.linkedin.com/in/sharuka-rajapaksha-243bba170/"><img src="https://skillicons.dev/icons?i=linkedin">
-<img src="https://skillicons.dev/icons?i=discord">
-</a>
+<a href="https://www.linkedin.com/in/sharuka-rajapaksha-243bba170/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <img src="https://skillicons.dev/icons?i=discord">
 </div>
 
 <!--
