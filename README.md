@@ -1,4 +1,3 @@
-
 <h2 align="center"> Welcome! 👋 I am Sharuka Rajapaksha</h2>
 <h3 align= "center"> Software Engineer from Finland</h3>
 
