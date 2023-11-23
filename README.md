@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome! 👋 I am Sharuka Rajapaksha</h1>
-<h1 align="center"> Software Engineer from Finland </h1>
+<h2 align="center"> Software Engineer from Finland </h2>
 
 - 🌍  Based in Finland
 - 🔭 I’m currently working on a React-based web application!
