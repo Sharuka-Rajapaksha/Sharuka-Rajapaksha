@@ -1,9 +1,9 @@
-<h1 align="center"> Welcome! 👋 I am Sharuka Rajapaksha</h1>
+<h1 align="center"> Welcome to my GitHub Profile! 👋 I am Sharuka Rajapaksha</h1>
 <h2 align="center"> Software Engineer from Finland </h2>
 
 - 🌍  Based in Finland
 - 🔭 I’m currently working on a React-based web application!
-- 🌱 I’m currently learning React and Angular 
+- 🌱 Hands-on experience with JavaScript and React  
 - 💬 Ask me about Web development
 - 📫 Feel free to contact me: rajapakshasharuka@gmail.com
 
